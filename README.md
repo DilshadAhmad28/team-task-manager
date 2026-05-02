@@ -68,5 +68,4 @@ A full-stack task management application with role-based access control (Admin/M
 - MongoDB Atlas account (or local MongoDB)
 - Git
 
-### Clone the Repository
-```bash
+
